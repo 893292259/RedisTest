@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jedis-2.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring-data-redis-2.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
